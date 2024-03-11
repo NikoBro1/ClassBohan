@@ -4,13 +4,13 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         AxisSystem axisSystem = new AxisSystem();
-        // axis100150(axisSystem);
-        // axis200(axisSystem);
-        // multipleAxis(axisSystem);
-        // giveAxis(axisSystem);
-        // chooseAxisParameters(axisSystem);
-        // getLine(axisSystem);
-        // createLine(axisSystem);
+        //axis100150(axisSystem);
+        //axis200(axisSystem);
+        //multipleAxis(axisSystem);
+        //giveAxis(axisSystem);
+        //chooseAxisParameters(axisSystem);
+        //getLine(axisSystem);
+        //createLine(axisSystem);
     }
 
     public static void axis100150(AxisSystem board) {
