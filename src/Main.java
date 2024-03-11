@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         AxisSystem axisSystem = new AxisSystem();
-        //axis100150(axisSystem);
+        // axis100150(axisSystem);
         // axis200(axisSystem);
         // multipleAxis(axisSystem);
         // giveAxis(axisSystem);
@@ -56,7 +56,6 @@ public class Main {
     public static void getLine (AxisSystem board){
         System.out.println("You function is y= 2x+100");
         int[] array = new int[250];
-        String color = "Green";
         int x = 50;
         int y = 100;
         int counter = 0;
